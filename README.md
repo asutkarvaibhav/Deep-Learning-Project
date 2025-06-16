@@ -47,7 +47,7 @@ Deep-Learning-Project/
 ├── requirements.txt  
 └── README.md  
 
-👨‍💻 Author
+👨‍💻 Author  
 Vaibhav Asutkar
 
 

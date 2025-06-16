@@ -1,50 +1,40 @@
-# Deep-Learning-Project
+# 🧠 Deep Learning Projects Collection
 
-# 🧠 Deep Learning Projects (CNN Based)
+A compilation of beginner-to-intermediate level deep learning projects, focusing on image classification and object detection using Convolutional Neural Networks (CNNs).
 
-This repository contains a collection of deep learning projects implemented using Convolutional Neural Networks (CNNs). Each project addresses a specific problem in image classification or computer vision, built using PyTorch or TensorFlow.
+## 📌 Project List
 
----
+1. **🐶 Dog Breed Classifier**  
+   Classifies the breed of a dog from its image using CNN.
 
-## 📂 Projects Included
+2. **🖼️ Image Detection using CNN**  
+   Basic CNN model to detect and classify general images into predefined categories.
 
-1. **Cat vs Dog Classification**
-   - Binary image classification using CNN.
-   - Dataset: Kaggle's Dogs vs. Cats dataset.
-   - Metrics: Accuracy, loss visualization.
+3. **✊✋✌️ Rock-Paper-Scissors Classifier**  
+   Predicts whether the image shows a rock, paper, or scissors gesture.
 
-2. **CIFAR-10 Image Classifier**
-   - Multiclass image classification using CNN.
-   - Dataset: CIFAR-10 (10 categories like car, deer, frog, etc.).
-   - Includes data augmentation and training graphs.
+4. **🗑️ Garbage Classifier**  
+   Classifies images into different types of waste—recyclable, organic, or hazardous.
 
-3. **MNIST Digit Recognizer**
-   - Handwritten digit classification.
-   - Dataset: MNIST (28x28 grayscale images).
-   - Optimized with dropout and batch normalization.
+5. **🐍 Snake Species Classifier**  
+   Identifies the species of a snake from its image using deep learning.
 
-4. **Fashion MNIST Classification**
-   - CNN for classifying clothing items like shirts, sneakers, bags.
-   - Dataset: Fashion MNIST.
-   - Performance: Accuracy and confusion matrix visualized.
-
-5. **Custom Image Classifier**
-   - Trained on a small custom dataset.
-   - Demonstrates transfer learning or CNN design from scratch.
-
-6. **Food Detection or Similar**
-   - A CNN project focusing on food item classification (if added).
-   - Dataset: OpenFood, Food101, or Kaggle source.
+6. **🍅 Tomato Leaf Disease Classifier**  
+   Detects diseases in tomato leaves from plant images using CNN.
 
 ---
 
-## 🚀 Technologies Used
+## 🛠️ Technologies Used
 
-- Python 🐍
-- PyTorch / TensorFlow
-- NumPy, Matplotlib, Pandas
-- CNN Architectures (Conv2D, MaxPool, Dropout)
-- Jupyter Notebooks
+- **Python**
+- **TensorFlow / Keras**
+- **NumPy, Pandas**
+- **Matplotlib, Seaborn**
+- **OpenCV** (for image preprocessing)
 
 ---
+
+## 📁 Repository Structure
+
+
 

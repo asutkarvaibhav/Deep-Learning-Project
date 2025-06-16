@@ -37,14 +37,14 @@ A compilation of beginner-to-intermediate level deep learning projects, focusing
 ## 📁 Repository Structure  
 
 Deep-Learning-Project/
-│
-├── dog_breed_classifier.ipynb
-├── image_detection_cnn.ipynb
-├── rock_paper_classifier.ipynb
-├── garbage_classifier.ipynb
-├── snake_species_classifier.ipynb
-├── tomato_leaf_disease_classifier.ipynb
-├── requirements.txt
+│  
+├── dog_breed_classifier.ipynb  
+├── image_detection_cnn.ipynb  
+├── rock_paper_classifier.ipynb  
+├── garbage_classifier.ipynb  
+├── snake_species_classifier.ipynb  
+├── tomato_leaf_disease_classifier.ipynb  
+├── requirements.txt  
 └── README.md  
 
 👨‍💻 Author
